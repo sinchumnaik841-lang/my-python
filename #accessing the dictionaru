@@ -1,0 +1,7 @@
+#accessing the dictionary
+sinchana={
+       "name" :"sinchana",
+       "age"  :18,
+       "department" :"aiml",
+}
+print("name")
